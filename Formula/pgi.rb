@@ -3,7 +3,7 @@ class Pgi < Formula
   homepage "https://github.com/benjaminsanborn/pgi"
   url "https://github.com/benjaminsanborn/pgi/archive/refs/heads/master.zip"
   version "1.0.0"
-  sha256 "PLACEHOLDER_SHA256"  # We'll calculate this after creating the release
+  sha256 "a929521dad9dff25ab07f218d4be8ce3b405a3149a6b2a47a31b80fd7693f553"  # We'll calculate this after creating the release
   license "MIT"
 
   depends_on "go" => :build
